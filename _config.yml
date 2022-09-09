@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Stephen Scheuerle / Site Title"
+title                    : "Stephen Scheuerle"
 title_separator          : "-"
 name                     : &name "Stephen Scheuerle"
 description              : &description "Hi, my name is Stephen Scheuerle. I am a graduate student at Purdue Universtiy pursuing a Ph.D. in Aeronautical and Astronautical Engineering. I earned a B.S. in Aerospace Engineering from NC State University in 2018. "
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
